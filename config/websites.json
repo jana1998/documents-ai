@@ -1,0 +1,14 @@
+{
+    "vault.app/": {
+        "PageTitle": "TEQ OpenAI Connect JARVIS APP01",
+        "PageIcon": "/img/logos/Favicon.svg",
+        "MetaTitle": "Coderteq JARVIS APP01",
+        "MetaDescription": "Upload any number of files (pdf, text, epub) and use them as context when asking OpenAI questions.",
+        "MetaVideo": "!",
+        "MetaType": "website",
+        "MetaImage": "",
+        "MetaUrl": "https://coderteq.com",
+        "TwitterUsername": "@",
+        "MetaKeywords": "Conversation, Analysis, GPT3, GPT 3.5Turbo"
+    }
+}
