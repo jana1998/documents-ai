@@ -167,7 +167,7 @@ func ServeIndex(w http.ResponseWriter, r *http.Request, meta serverutil.SiteConf
 		"Upload any number of files (pdf, text, epub) and use them as context when asking OpenAI questions.")
 	localSiteConfig["TwitterUsername"] = replaceEmpty(localSiteConfig["TwitterUsername"], "@pashmerepat")
 	localSiteConfig["MetaKeywords"] = replaceEmpty(localSiteConfig["MetaKeywords"], "OpenAI, Pinecone, ChatGPT")
-	localSiteConfig["PageTitle"] = replaceEmpty(localSiteConfig["PageTitle"], "The Vault | OP Question-Answer Stack")
+	localSiteConfig["PageTitle"] = replaceEmpty(localSiteConfig["PageTitle"], "JAR01 | Question-Answer Stack")
 	localSiteConfig["PageIcon"] = replaceEmpty(localSiteConfig["Icon"], "/img/logos/Favicon.svg")
 	localSiteConfig["content"] = replaceEmpty(localSiteConfig["content"], "https://i.imgur.com/6YSvyEV.png")
 	localSiteConfig["contentType"] = replaceEmpty(localSiteConfig["contentType"], "og:image")
